@@ -1,0 +1,77 @@
+.column {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.row {
+	display: flex;
+	// flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	
+}
+
+.grey-D7DADC {
+	color: #D7DADC;
+}
+
+.grey-525A60 {
+	color: #525A60;
+}
+
+.white {
+	color: #ffffff;
+}
+
+.subtitleColor-grey {
+	color: #838D94;
+}
+
+.mainColor-Blue {
+	color: #2787FF;
+}
+
+.black {
+	color: #242629;
+}
+
+.backgroundCorlor {
+	background-color: #F4F5F5;
+}
+
+.text-small-size {
+	font-size: 12px !important;
+}
+
+.text-normal-size {
+	font-size: 14px !important;
+}
+
+.text-title-size {
+	font-size: 20px !important;
+}
+
+.divider {
+	background-color: #EFF0F1;
+	height: 1px;
+	width: 100%;
+}
+
+
+.content {
+	background-color: #F4F5F5;
+	width: 100vw;
+	height: 100vh;
+	// position: fixed;
+	// left: 0px;
+	// top: 0px;
+	overflow-y: scroll;
+}
+
+.card {
+	background-color: #FFFFFF;
+	border-radius: 8px;
+	overflow: hidden;
+}
